@@ -19,4 +19,3 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://github.com/CatalaHD/Cardioids/blob/master/LICENSE)
-
